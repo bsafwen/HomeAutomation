@@ -8,7 +8,6 @@ L'utilisateur peut changer l'état d'un équipement depuis son smartphone. Le me
 ![Interface d'accuiel](https://github.com/bsafwen/HomeAutomation/blob/master/pics/conception_general.jpg)
 ![accueil](https://github.com/bsafwen/HomeAutomation/blob/master/pics/accueil.jpg)
 ![baby_filled](https://github.com/bsafwen/HomeAutomation/blob/master/pics/baby_filled.jpg)
-![conception_general](https://github.com/bsafwen/HomeAutomation/blob/master/pics/conception_general.jpg)
 ![config](https://github.com/bsafwen/HomeAutomation/blob/master/pics/config.jpg)
 ![garage_closed](https://github.com/bsafwen/HomeAutomation/blob/master/pics/garage_closed.jpg)
 ![garage_open](https://github.com/bsafwen/HomeAutomation/blob/master/pics/garage_open.jpg)
