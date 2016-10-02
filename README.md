@@ -5,5 +5,5 @@ Un capteur détecte un événement, envoie l'information au microprocesseur de l
 Contrôle des équipements:
 L'utilisateur peut changer l'état d'un équipement depuis son smartphone. Le message est transmis au serveur qui l'envoie à la centrale des capteurs, qui se chargera à envoyer le message à la carte Arduino à laquelle est connecté cet équipement. A l'arrivée du message, la carte Arduino teste la validité du message et exécute la commande demandée par l'utilisateur(par exemple: Allumer une lampe).
 
-![Interface d'accuiel](https://github.com/bsafwene/RCU_Testing/blob/master/pics/accueil.png?raw=true " ")
+![Interface d'accuiel](https://github.com/bsafwen/RCU_Testing/blob/master/pics/accueil.jpg?raw=true " ")
 
