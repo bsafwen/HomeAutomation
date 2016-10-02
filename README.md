@@ -6,5 +6,12 @@ Contrôle des équipements:
 L'utilisateur peut changer l'état d'un équipement depuis son smartphone. Le message est transmis au serveur qui l'envoie à la centrale des capteurs, qui se chargera à envoyer le message à la carte Arduino à laquelle est connecté cet équipement. A l'arrivée du message, la carte Arduino teste la validité du message et exécute la commande demandée par l'utilisateur(par exemple: Allumer une lampe).
 
 ![Interface d'accuiel](https://github.com/bsafwen/HomeAutomation/blob/master/pics/conception_general.jpg)
-![Interface d'accuiel](https://github.com/bsafwen/HomeAutomation/blob/master/pics/accueil.jpg)
-
+![accueil](https://github.com/bsafwen/HomeAutomation/blob/master/pics/accueil.jpg)
+![baby_filled](https://github.com/bsafwen/HomeAutomation/blob/master/pics/baby_filled.jpg)
+![conception_general](https://github.com/bsafwen/HomeAutomation/blob/master/pics/conception_general.jpg)
+![config](https://github.com/bsafwen/HomeAutomation/blob/master/pics/config.jpg)
+![garage_closed](https://github.com/bsafwen/HomeAutomation/blob/master/pics/garage_closed.jpg)
+![garage_open](https://github.com/bsafwen/HomeAutomation/blob/master/pics/garage_open.jpg)
+![kitchen](https://github.com/bsafwen/HomeAutomation/blob/master/pics/kitchen.jpg)
+![laundry_machine_ko](https://github.com/bsafwen/HomeAutomation/blob/master/pics/laundry_machine_ko.jpg)
+![laundry_machine_ok](https://github.com/bsafwen/HomeAutomation/blob/master/pics/laundry_machine_ok.jpg)
